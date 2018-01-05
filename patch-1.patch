@@ -1,0 +1,24 @@
+diff --git a/README.md b/README.md
+index 7a75040..57d78ca 100644
+--- a/README.md
++++ b/README.md
+@@ -1,5 +1,6 @@
+ Formation GIT
+ 
+-@TODO ..
+ 
+ Chapitre 1
++Chapitre 2
++Chapitre 3
+diff --git a/file-1.txt b/file-1.txt
+index e69de29..dddd85a 100644
+--- a/file-1.txt
++++ b/file-1.txt
+@@ -0,0 +1 @@
++Titre file 1
+diff --git a/file-2.txt b/file-2.txt
+index e69de29..783aac5 100644
+--- a/file-2.txt
++++ b/file-2.txt
+@@ -0,0 +1 @@
++Titre file 2
